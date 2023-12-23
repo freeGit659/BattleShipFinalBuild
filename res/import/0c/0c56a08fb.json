@@ -1812,7 +1812,7 @@
           "_fontSize": 65,
           "_lineHeight": 80,
           "_N$file": {
-            "__uuid__": "614BR9L4ZDA7j/OYI8ZQY5"
+            "__uuid__": "17OEuphDpGpI70iPdADsdv"
           },
           "_isSystemFontUsed": false,
           "_N$horizontalAlign": 1,
@@ -1826,7 +1826,7 @@
       "_contentSize": {
         "__type__": "cc.Size",
         "width": 757.28,
-        "height": 77.78
+        "height": 72.22
       },
       "_position": {
         "__type__": "cc.Vec3",
